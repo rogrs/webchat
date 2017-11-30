@@ -34,7 +34,7 @@ Execute este comando no terminal para iniciar a aplicação:
 
 No seu navegado acesse a seguinte url:
 
-   http://localhost:8080/
+    http://localhost:8080/
 
 ## License
 
