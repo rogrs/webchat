@@ -1,0 +1,7 @@
+{
+  "name": "Webchat",
+  "description": "Projeto exemplo de webchat",
+  "repository": "https://github.com/rogrs/webchat",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
