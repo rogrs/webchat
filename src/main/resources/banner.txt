@@ -1,0 +1,9 @@
+                                                               
+  ${AnsiColor.GREEN},--.   ,--.${AnsiColor.RED}         ,--.    ${AnsiColor.BRIGHT_BLUE}       ,--.                 ,--.   
+  ${AnsiColor.GREEN}|  |   |  |${AnsiColor.RED}  ,---.  |  |-.  ${AnsiColor.BRIGHT_BLUE} ,---. |  ,---.   ,--,--. ,-'  '-. 
+  ${AnsiColor.GREEN}|  |.'.|  |${AnsiColor.RED} | .-. : | .-. ' ${AnsiColor.BRIGHT_BLUE}| .--' |  .-.  | ' ,-.  | '-.  .-' 
+  ${AnsiColor.GREEN}|   ,'.   |${AnsiColor.RED} \   --. | `-' | ${AnsiColor.BRIGHT_BLUE}\ `--. |  | |  | \ '-'  |   |  |   
+  ${AnsiColor.GREEN}'--'   '--'${AnsiColor.RED}  `----'  `---'  ${AnsiColor.BRIGHT_BLUE} `---' `--' `--'  `--`--'   `--'   
+
+${AnsiColor.BRIGHT_BLUE}:: Webchat 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: http://localhost:8080/ ::${AnsiColor.DEFAULT}
